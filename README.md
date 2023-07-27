@@ -1,0 +1,2 @@
+# Arduino-Home-automation-using-Bluetooth-and-IR-with-custom-application-using-MIT-app-inventor
+Arduino Home automation using Bluetooth and IR with custom application using MIT app inventor, which work as a device control system which control the electical devices connected to the relay unit of the Arduino. Also the setup can monitor Temperature and Humiditu using DHT11 and it can sence heart rate using pulse sensor.
