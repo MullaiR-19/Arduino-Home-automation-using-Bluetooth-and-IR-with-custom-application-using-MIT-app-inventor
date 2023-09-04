@@ -1,4 +1,4 @@
-The paragraph you provided describes an Arduino-based home automation system that uses both Bluetooth (BT) and Infrared (IR) communication to control electrical devices connected to the relay unit of the Arduino. The setup also includes sensors for monitoring temperature and humidity using the DHT11 sensor and sensing heart rate using a pulse sensor.
+Arduino-based home automation system that uses both Bluetooth (BT) and Infrared (IR) communication to control electrical devices connected to the relay unit of the Arduino. The setup also includes sensors for monitoring temperature and humidity using the DHT11 sensor and sensing heart rate using a pulse sensor.
 
 Key features of the setup:
 
